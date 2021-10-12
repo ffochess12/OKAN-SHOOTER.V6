@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "OKAN-GDC1",
+"productVersion": "0.1",
+"dataUrl": "GDC1.data.unityweb",
+"wasmCodeUrl": "GDC1.wasm.code.unityweb",
+"wasmFrameworkUrl": "GDC1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
